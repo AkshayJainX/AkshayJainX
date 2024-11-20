@@ -1,6 +1,6 @@
 # 🎬 Studiovity Screenwriting Software  
 
-**Craft Pro-Level Scripts with Ease**  
+**Create Film Screenplay with Ease**  
 
 Welcome to **Studiovity Screenwriting Software**—the ultimate tool for screenwriters to create, collaborate, and bring their stories to life. Designed for professionals and beginners alike, our software simplifies the writing process, making script creation efficient and enjoyable.  
 
@@ -44,7 +44,8 @@ Welcome to **Studiovity Screenwriting Software**—the ultimate tool for screenw
 
 ## 📥 **Start Writing Today**  
 Get started with Studiovity’s Screenwriting Software for free!  
-- **[Launch the App](https://app.studiovity.com/)**  
+- **[Launch the App](https://app.studiovity.com/)**
+- **[Download on Android](https://play.google.com/store/apps/details?id=com.studiovity.studiovity)**  
 - **[Download on iOS](https://apps.apple.com/in/app/studiovity-screenwriting-app/id1598427780)**  
 
 ---
@@ -54,6 +55,3 @@ Studiovity isn’t just a screenwriting tool—it’s a collaborative platform t
 
 Ready to transform your stories into screenplays? **[Start Now](https://app.studiovity.com/)**!  
 
---- 
-
-Feel free to customize further with additional visuals or links for interactivity.
