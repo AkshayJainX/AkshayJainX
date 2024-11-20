@@ -12,7 +12,7 @@ Studiovity is your all-in-one toolkit for Directors, Producers and Screenwriters
   - Shooting schedules  
   - Episodic scheduling  
   - Call sheets and task management
-  - Production calendars**  
+  - Production calendars
 - **Movie budgeting**  
 
 <img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/86/14/ab/8614ab01-9bda-af56-26ac-5503f2b1387c/0x0ss__U002822_U0029.png/626x0w.webp" alt="Studiovity Dashboard" width="700"/>  
