@@ -4,7 +4,7 @@
 
 Streamline your film and TV production process with **Studiovity Pre-Production Software**. Designed for directors, producers, and production managers, it combines AI-powered tools with intuitive design to elevate your pre-production efficiency.  
 
-![Studiovity Pre-Production Software](https://studiovity.com/assets/pre-production.png)  
+[Start Studiovity Pre-Production Software for Free](https://studiovity.com)  
 
 ---
 
