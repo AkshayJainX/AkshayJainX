@@ -4,7 +4,7 @@ Welcome to my corner of GitHub! I'm Akshay, the creator of **[Studiovity](https:
 ---
 
 ## 🎥 **What is Studiovity?**  
-Studiovity is your all-in-one toolkit for Directors, Producers and Screenwriters
+Studiovity is your all-in-one creative managemente Software for Directors, Producers and Screenwriters
 - **Screenwriting**  
 - **Pre-production planning**  
   - Script breakdown  
