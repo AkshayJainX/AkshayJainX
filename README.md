@@ -1,7 +1,3 @@
-Here’s a creative and comprehensive **README.md** file for your GitHub profile:
-
----
-
 # 👋 Hi there! I’m Akshay Jain  
 Welcome to my corner of GitHub! I'm Akshay, the creator of **[Studiovity](https://studiovity.com)**—a comprehensive film production hub designed to streamline the filmmaking process from concept to completion.  
 
@@ -19,7 +15,7 @@ Studiovity is your all-in-one toolkit for:
 - **Production calendars**  
 - **Movie budgeting**  
 
-<img src="https://studiovity.com/assets/home.png" alt="Studiovity Dashboard" width="700"/>  
+<img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/86/14/ab/8614ab01-9bda-af56-26ac-5503f2b1387c/0x0ss__U002822_U0029.png/626x0w.webp" alt="Studiovity Dashboard" width="700"/>  
 
 ### 🚀 **Get Started for Free**  
 - [Studiovity Screenwriting Software](https://studiovity.com/screenwriting-software/)  
