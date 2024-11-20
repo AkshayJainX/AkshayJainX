@@ -53,10 +53,10 @@ I’m a passionate **Tech Architect** with a love for innovation and problem-sol
 ## 🌐 **Let’s Connect**  
 I’m eager to collaborate on projects in tech, filmmaking, or AI. Got an idea? Let’s talk!  
 - **Email:** [akshaykumarjain.iitr@gmail.com](mailto:akshaykumarjain.iitr@gmail.com)  
-- **LinkedIn:** [Akshay Jain](#)  
+- **LinkedIn:** [Akshay Jain](https://www.linkedin.com/in/pageakj/)  
 - **YouTube:** [Studiovity](https://www.youtube.com/@studiovity)  
-- **Instagram:** [@studiovity](#)  
-- **Facebook:** [Studiovity](#)  
+- **Instagram:** [@studiovity](https://www.instagram.com/studiovity/?hl=en)  
+- **Facebook:** [Studiovity](https://www.instagram.com/studiovity/?hl=en)  
 
 ---
 
@@ -65,7 +65,7 @@ Here’s a quick look at my toolkit:
 - **Generative AI**: Stable Diffusion, Dream Booth, TensorFlow  
 - **Mobile Development**: Flutter  
 - **Backend**: Node.js, MongoDB, Express.js  
-- **Cloud Services**: AWS  
+- **Cloud Services**: AWS, Google Cloud
 
 ---
 
