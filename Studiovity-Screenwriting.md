@@ -4,7 +4,7 @@
 
 Welcome to **Studiovity Screenwriting Software**—the ultimate tool for screenwriters to create, collaborate, and bring their stories to life. Designed for professionals and beginners alike, our software simplifies the writing process, making script creation efficient and enjoyable.  
 
-![Studiovity Screenwriting Software](https://studiovity.com/assets/home.png)  
+![Studiovity Screenwriting Software]([https://studiovity.com/assets/home.png](https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/ffe819c6-c1ab-49ed-b357-912bf69c7818.webp?auto=format&q=50))  
 
 ---
 
