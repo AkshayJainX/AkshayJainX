@@ -1,5 +1,5 @@
 # 👋 Hi there! I’m Akshay Jain  
-Welcome to my corner of GitHub! I'm Akshay, the creator of **[Studiovity](https://studiovity.com)**—a comprehensive film production hub designed to streamline the filmmaking process from concept to completion.  
+Welcome to my corner of GitHub! I'm Akshay, the creator of **[Studiovity](https://studiovity.com)**—a comprehensive film production hub designed to streamline the filmmaking process from concept to completion. Developed and scaled an Enterprise SaaS platform from inception to a user base exceeding 100,000 plus
 
 ---
 
