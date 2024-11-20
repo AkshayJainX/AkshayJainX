@@ -10,7 +10,9 @@ Introducing **Studiovity Movie Budgeting Software**—the only budgeting app ava
 
 ## 🚀 **Key Features**  
 
-### 1. [**Top Sheet Overview**](https://res.cloudinary.com/skg-projects/image/upload/v1732123202/studiovity_movie_budgeting_top_sheet_hgj9wi.png)  
+### 1. [**Top Sheet Overview**]
+
+(https://res.cloudinary.com/skg-projects/image/upload/v1732123202/studiovity_movie_budgeting_top_sheet_hgj9wi.png)  
 Get a concise snapshot of your production budget. Easily adjust categories and subcategories for a clear and flexible overview of all expenses.  
 
 ### 2. **Detailed Sheet**  
