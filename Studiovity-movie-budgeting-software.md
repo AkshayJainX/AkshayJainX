@@ -47,7 +47,8 @@ Seamlessly collaborate with your team using real-time updates and permissions-ba
 
 ## 📥 **Get Started for Free**  
 Begin your journey to efficient film production budgeting today!  
-- **[Launch the App](https://app.studiovity.com/)**  
+- **[Launch the App](https://app.studiovity.com/)**
+- **[Download on Android](https://play.google.com/store/apps/details?id=com.studiovity.studiovity)**  
 - **[Download on iOS](https://apps.apple.com/in/app/studiovity-screenwriting-app/id1598427780)**  
 
 ---
@@ -56,7 +57,3 @@ Begin your journey to efficient film production budgeting today!
 Studiovity is more than just a budgeting tool. It integrates seamlessly with other production modules like script breakdown, scheduling, and call sheets to give you a comprehensive filmmaking experience.  
 
 Ready to streamline your film budgeting? **[Start Now](https://app.studiovity.com/)**!  
-
----  
-
-Feel free to customize further with additional visuals or specific links to showcase integrations or additional features.
