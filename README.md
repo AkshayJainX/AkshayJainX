@@ -64,9 +64,10 @@ I’m eager to collaborate on projects in tech, filmmaking, or AI. Got an idea? 
 
 ## 🛠️ **Technologies & Skills**  
 Here’s a quick look at my toolkit:  
-- **Generative AI**: Stable Diffusion, Dream Booth, TensorFlow  
+- **Generative AI**: Stable Diffusion, LORA, LAMA, GPT, Dream Booth, TensorFlow  
 - **Mobile Development**: Flutter  
 - **Backend**: Node.js, MongoDB, Express.js  
+- **DB**: SQL, MongoDB
 - **Cloud Services**: AWS, Google Cloud
 
 ---
