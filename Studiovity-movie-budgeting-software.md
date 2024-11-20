@@ -4,15 +4,15 @@
 
 Introducing **Studiovity Movie Budgeting Software**—the only budgeting app available on Android, iOS, and web, designed exclusively for filmmakers. Whether you’re a producer, director, or production manager, Studiovity simplifies budget planning so you can focus on creating your masterpiece.  
 
-![Studiovity Movie Budgeting Software](https://studiovity.com/assets/movie-budgeting.png)  
+![Studiovity Movie Budgeting Software](https://studiovity.com/movie-budgeting-software/)  
 
 ---
 
 ## 🚀 **Key Features**  
 
-### 1. [**Top Sheet Overview**]
+### 1. **Top Sheet Overview**
 
-(https://res.cloudinary.com/skg-projects/image/upload/v1732123202/studiovity_movie_budgeting_top_sheet_hgj9wi.png)  
+![Studiovity Top Sheet Budgeting](https://res.cloudinary.com/skg-projects/image/upload/v1732123202/studiovity_movie_budgeting_top_sheet_hgj9wi.png)  
 Get a concise snapshot of your production budget. Easily adjust categories and subcategories for a clear and flexible overview of all expenses.  
 
 ### 2. **Detailed Sheet**  
