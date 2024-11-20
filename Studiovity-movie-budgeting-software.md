@@ -4,25 +4,26 @@
 
 Introducing **Studiovity Movie Budgeting Software**—the only budgeting app available on Android, iOS, and web, designed exclusively for filmmakers. Whether you’re a producer, director, or production manager, Studiovity simplifies budget planning so you can focus on creating your masterpiece.  
 
-![Studiovity Movie Budgeting Software](https://studiovity.com/movie-budgeting-software/)  
+[Studiovity Movie Budgeting Software](https://studiovity.com/movie-budgeting-software/)  
 
 ---
 
 ## 🚀 **Key Features**  
 
 ### 1. **Top Sheet Overview**
-
-![Studiovity Top Sheet Budgeting](https://res.cloudinary.com/skg-projects/image/upload/v1732123202/studiovity_movie_budgeting_top_sheet_hgj9wi.png)  
 Get a concise snapshot of your production budget. Easily adjust categories and subcategories for a clear and flexible overview of all expenses.  
+![Studiovity Top Sheet Budgeting](https://res.cloudinary.com/skg-projects/image/upload/v1732123202/studiovity_movie_budgeting_top_sheet_hgj9wi.png)  
 
 ### 2. **Detailed Sheet**  
 Track every production cost in detail, from crew payroll to equipment rentals. Compare actual vs. estimated costs for accurate financial insights.  
+![Studiovity Detailed Sheet Budgeting](https://res.cloudinary.com/skg-projects/image/upload/v1732123201/studiovity_movie_budgeting_detailed_sheet_hkjg2z.png)  
 
 ### 3. **Custom Budget Structures**  
 Tailor the budgeting tool to your needs by creating custom accounts and sub-accounts. Flexibly adapt your budget as production evolves.  
 
 ### 4. **Global and Fringe Adjustments**  
-Automate complex calculations for payroll taxes, insurance, and fringe benefits. Manage varying rates for different departments with ease.  
+Automate complex calculations for payroll taxes, insurance, and fringe benefits. Manage varying rates for different departments with ease. 
+![Studiovity Globals and Fringes in Budgeting](https://res.cloudinary.com/skg-projects/image/upload/v1732123203/studiovity_movie_budgeting_fringes_and_globals_r35qrl.png)  
 
 ### 5. **Multiple Views and Exports**  
 Share budgets with stakeholders effortlessly by exporting reports in **CSV**, **Excel**, or **PDF** formats.  
