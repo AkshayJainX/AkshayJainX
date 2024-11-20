@@ -5,15 +5,15 @@ Welcome to my corner of GitHub! I'm Akshay, the creator of **[Studiovity](https:
 
 ## 🎥 **What is Studiovity?**  
 Studiovity is your all-in-one creative managemente Software for Directors, Producers and Screenwriters
-- **Screenwriting**  
-- **Pre-production planning**  
+- **Screenwriting** ([Learn more](Studiovity-Screenwriting.md))  
+- **Pre-production planning** ([Learn more](studiovity-film-pre-production-software.md))  
   - Script breakdown  
   - Shot lists  
   - Shooting schedules  
   - Episodic scheduling  
-  - Call sheets and task management
-  - Production calendars
-- **Movie budgeting**  
+  - Call sheets and task management  
+  - Production calendars  
+- **Movie budgeting** ([Learn more](Studiovity-movie-budgeting-software.md))  
 
 <img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/86/14/ab/8614ab01-9bda-af56-26ac-5503f2b1387c/0x0ss__U002822_U0029.png/626x0w.webp" alt="Studiovity Dashboard" width="700"/>  
 
