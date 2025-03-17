@@ -1,5 +1,5 @@
 # 👋 Hi there! I’m Akshay Jain  
-Welcome to my corner of GitHub! I'm Akshay, the creator of **[Studiovity](https://studiovity.com)**—a comprehensive film production hub designed to streamline the filmmaking process from concept to completion. Developed and scaled an Enterprise SaaS platform from inception to a user base exceeding 100,000 plus
+Welcome to my corner of GitHub! I'm Akshay, I have extensively worked on of **[Studiovity](https://studiovity.com)**—a comprehensive film production hub designed to streamline the filmmaking process from concept to completion. Developed and scaled an Enterprise SaaS platform from inception to a user base exceeding 100,000 plus
 
 ---
 
@@ -27,10 +27,10 @@ Studiovity is your all-in-one creative managemente Software for Directors, Produ
 ---
 
 ## 👨‍💻 **About Me**  
-I’m a passionate **Tech Architect** with a love for innovation and problem-solving. My technical expertise spans:  
-- **Programming:** Python, Generative AI, and mobile app development with Flutter  
-- **Backend:** MongoDB, Express.js, Node.js  
-- **Cloud:** AWS Cloud Services for scalable and efficient systems
+I’m a passionate **Software Engineer and Tech Architect** with a love for innovation and problem-solving. My technical expertise spans:  
+- **Programming:** Python, Dart, Javascript  
+- **Backend:** MongoDB, Express.js, Node.js, python, flask
+- **Cloud:** AWS Cloud Services for scalable and efficient systems, Google cloud.
 - **Product Research:** Skilled in analyzing business use cases, identifying user needs, and transforming them into robust technical architectures.
 
 **At Studiovity**, I’ve incorporated cutting-edge Generative AI to revolutionize filmmaking workflows. In my previous roles, I’ve built AI-driven applications, delivered predictive analytics, and led impactful tech projects.  
@@ -39,12 +39,12 @@ I’m a passionate **Tech Architect** with a love for innovation and problem-sol
 
 ## 💡 **Work Experience Highlights**  
 
-### **Studiovity (Founder & Tech Architect)**  
+### **Studiovity (SDE 2)**  
 - Designed and scaled a cloud-based filmmaking platform for screenwriters, producers, and filmmakers.  
 - Developed critical modules for pre-production, scheduling, and budgeting.  
 - Integrated Generative AI to transform scriptwriting and production workflows.  
 
-### **PayTM (Software Engineer - Backend & Full Stack)**  
+### **PayTM (Software Engineer - 1 Backend)**  
 - Collaborated with CEO Vijay Shekhar Sharma on feature discussions for the LMS (Loan Management System).  
 - Architected schema design for the loan management and disbursement system.  
 - Led a team of 3 engineers to deliver a beta application for the field sales team in just six months.  
