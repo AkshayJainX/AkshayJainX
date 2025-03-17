@@ -55,7 +55,7 @@ I’m a passionate **Software Engineer and Tech Architect** with a love for inno
 ## 🌐 **Let’s Connect**  
 I’m eager to collaborate on projects in tech, filmmaking, or AI. Got an idea? Let’s talk!  
 - **Email:** [akshaykumarjain.iitr@gmail.com](mailto:akshaykumarjain.iitr@gmail.com)  
-- **LinkedIn:** [Akshay Jain](https://www.linkedin.com/in/pageakj/)  
+- **LinkedIn:** [Akshay Jain](https://www.linkedin.com/in/akshay-jain21/)  
 - **YouTube:** [Studiovity](https://www.youtube.com/@studiovity)  
 - **Instagram:** [@studiovity](https://www.instagram.com/studiovity/?hl=en)  
 - **Facebook:** [Studiovity](https://www.instagram.com/studiovity/?hl=en)  
@@ -75,7 +75,7 @@ Here’s a quick look at my toolkit:
 
 ---
 
-🌟 Let’s build something extraordinary together!  
+🌟 Akshay, the tech builder!  
 
 ---  
 
