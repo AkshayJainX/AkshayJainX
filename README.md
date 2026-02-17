@@ -1,48 +1,73 @@
 # 👋 Hi there! I’m Akshay Jain  
-
-Welcome to my corner of GitHub! I'm Akshay, a strategist and product visionary dedicated to revolutionizing the creative tech landscape. I am the lead architect of **[Studiovity](https://studiovity.com)**—a comprehensive, AI-powered film production hub designed to unify the entire filmmaking workflow. Under my leadership, we scaled this Enterprise SaaS platform to a global user base exceeding 100,000 creators.
-
----
-
-## 🎥 **What is Studiovity?** Studiovity is an all-in-one filmmaking hub that streamlines production, reducing pre-production time by 40% through innovative AI-powered tools. It is the essential creative management software for Directors, Producers, and Screenwriters.
-
-<p align="center">
-  <a href="https://studiovity.com">
-    <img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/86/14/ab/8614ab01-9bda-af56-26ac-5503f2b1387c/0x0ss__U002822_U0029.png/626x0w.webp" alt="Studiovity Dashboard" width="512"/>
-  </a>
-</p>
-
-### **Core Filmmaking Solutions**
-- ✍️ **[AI Screenwriting Software](https://studiovity.com/screenwriting-software/)**: Write and collaborate on professional scripts with advanced formatting and real-time AI suggestions.
-- 🎨 **[AI Storyboarding & Shot Lists](https://studiovity.com/shotlist-storyboard/)**: Instantly transform script text into visual panels while maintaining character consistency across all scenes.
-- 📋 **[AI Script Breakdown](https://studiovity.com/script-breakdown-software/)**: Automate the breakdown process by instantly identifying props, cast, and locations directly from your script.
-- ⏳ **[TV & Film Scheduling Software](https://studiovity.com/video-tv-film-scheduling-software/)**: Optimize your production timeline with automated scheduling and scene management.
-- 📑 **[Professional Call Sheet Software](https://studiovity.com/call-sheet-software/)**: Generate and distribute custom call sheets for your crew in seconds.
-- 💰 **[Movie Budgeting Software](https://studiovity.com/movie-budgeting-software/)**: Manage production finances with professional top sheets, fringes, and global variable tracking.
+Welcome to my corner of GitHub! I'm Akshay, I have extensively worked on **[Studiovity](https://studiovity.com)**—a comprehensive film production hub designed to streamline the filmmaking process from concept to completion. Developed and scaled an Enterprise SaaS platform from inception to a user base exceeding 100,000 plus.
 
 ---
 
-## 👨‍💻 **Technical Expertise** I’m a **Software Engineer and Tech Architect** with a passion for problem-solving and scalable systems. My expertise includes:  
-- **Frontend:** Flutter (Dart) for high-performance iOS and Android applications.  
-- **Backend:** Python (Flask), JavaScript, TypeScript, Node.js, and MongoDB.  
-- **Cloud:** Architecting scalable microservices on AWS and Google Cloud.  
-- **AI/ML:** Implementing Generative AI and hybrid RAG architectures to automate creative workflows.
+## 🎥 **What is Studiovity?** Studiovity is your all-in-one creative management Software for Directors, Producers and Screenwriters.
+
+<img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/86/14/ab/8614ab01-9bda-af56-26ac-5503f2b1387c/0x0ss__U002822_U0029.png/626x0w.webp" alt="Studiovity Dashboard" width="512"/> 
+
+### **Key Features & Solutions**
+- **[Screenwriting Software](https://studiovity.com/screenwriting-software/)** ([Learn more](Studiovity-Screenwriting.md))  
+- **Pre-production planning** ([Learn more](studiovity-film-pre-production-software.md))  
+  - **[Script Breakdown Software](https://studiovity.com/script-breakdown-software/)**
+  - **[Shotlist & Storyboard Tools](https://studiovity.com/shotlist-storyboard/)**
+  - **[Film Scheduling Software](https://studiovity.com/video-tv-film-scheduling-software/)**
+  - Episodic scheduling  
+  - **[Call Sheet Software](https://studiovity.com/call-sheet-software/)** and task management  
+  - Production calendars  
+- **[Movie Budgeting Software](https://studiovity.com/movie-budgeting-software/)** ([Learn more](Studiovity-movie-budgeting-software.md))  
+
+
+
+[Image of film production workflow diagram]
+
+
+### 🚀 **Get Started for Free** - [Studiovity Screenwriting Software](https://studiovity.com/screenwriting-software/)  
+- [Studiovity Pre-production Software](https://studiovity.com/)  
+- [Studiovity Movie Budgeting Software](https://studiovity.com/movie-budgeting-software/)  
 
 ---
 
-## 💡 **Experience Highlights** ### **Studiovity (SDE 2)** - Architected a cloud-native platform that delivers up to 70% time savings in pre-production.  
-- Integrated Generative AI to transform scripts into structured production plans in under 60 seconds.  
+## 👨‍💻 **About Me** I’m a passionate **Software Engineer and Tech Architect** with a love for innovation and problem-solving. My technical expertise spans:  
+- **Frontend:** Flutter (Dart) for IOS and Android.
+- **Backend:** Python (flask), Javascript, Typescript, Express.js, Node.js, MongoDB, SQL.
+- **Cloud:** AWS Cloud Services for scalable and efficient systems, Google Cloud.
+- **Product Research:** Skilled in analyzing business use cases, identifying user needs, and transforming them into robust technical architectures.
 
-### **PayTM (Software Engineer - 1)** - Worked on the Loan Management System (LMS) schema design and disbursement architecture.  
-- Led a team of engineers to deliver a production-ready sales application in just six months.  
+**At Studiovity**, I’ve incorporated cutting-edge Generative AI to revolutionize filmmaking workflows. In my previous roles, I’ve built AI-driven applications, delivered predictive analytics, and led impactful tech projects.  
 
 ---
 
-## 🌐 **Let’s Connect** I’m always open to collaborating on projects involving AI, tech architecture, or the future of film technology.  
+## 💡 **Work Experience Highlights** ### **Studiovity (SDE 2)** - Designed and scaled a cloud-based filmmaking platform for screenwriters, producers, and filmmakers.  
+- Developed critical modules for pre-production, scheduling, and budgeting.  
+- Integrated Generative AI to transform scriptwriting and production workflows.  
+
+### **PayTM (Software Engineer - 1)** - Collaborated with CEO Vijay Shekhar Sharma on feature discussions for the LMS (Loan Management System).  
+- Architected schema design for the loan management and disbursement system.  
+- Led a team of 3 engineers to deliver a beta application for the field sales team in just six months.  
+- **Achievements:** Winner of the Data Migration and Dashboard Migration Hackathon.  
+
+---
+
+## 🌐 **Let’s Connect** I’m eager to collaborate on projects in tech, filmmaking, or AI. Got an idea? Let’s talk!  
+- **Email:** [akshaykumarjain.iitr@gmail.com](mailto:akshaykumarjain.iitr@gmail.com)  
 - **LinkedIn:** [Akshay Jain](https://www.linkedin.com/in/akshay-jain21/)  
-- **YouTube:** [Studiovity Official](https://www.youtube.com/@studiovity)  
-- **Website:** [studiovity.com](https://studiovity.com)  
-- **Email:** akshaykumarjain.iitr@gmail.com
+- **YouTube:** [Studiovity](https://www.youtube.com/@studiovity)  
+- **Instagram:** [@studiovity](https://www.instagram.com/studiovity/?hl=en)  
+- **Facebook:** [Studiovity](https://www.instagram.com/studiovity/?hl=en)  
 
 ---
-🌟 *Building the tech backbone for the next generation of storytellers.*
+
+## 🛠️ **Technologies & Skills** Here’s a quick look at my toolkit:  
+- **Cloud Services**: AWS, Google Cloud
+- **Backend**: Python, Node.js, MongoDB, Express.js
+- **DB**: SQL, MongoDB
+- **Generative AI**: Stable Diffusion, LORA, LAMA, GPT, Dream Booth, TensorFlow  
+- **Mobile Development**: Flutter
+- **Certifications**: AWS solution architect associate
+
+---
+🌟 Akshay, the tech builder!  
+✨ Crafted with passion by Akshay Jain.  
+---
